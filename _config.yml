@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
-title: Welcome to the Tim Davis' personal web page
+title: Welcome to Tim Davis' personal web page
 description: Tim Davis' personal web page
 markdown: kramdown
 github:
-  is_project_page: true
-  is_user_page: false
+  is_project_page: false
+  is_user_page: true
   owner_name: Tim Davis
   repository_nwo: github.com/drtimothyaldendavis
   repository_url: https://github.com/drtimothyaldendavis.github.io
