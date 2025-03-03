@@ -1,5 +1,9 @@
-Tim Davis' personal web page (in progress)
+# Tim Davis' personal web page (in progress)
 
-# Documents:
+I'm transitioning my personal web pages to this site.
+
+# Documents from whateverispure.org:
 
 * [Renovare Critique](RenovareVersusScripture_2ndEdition.pdf)
+
+* more in progress
