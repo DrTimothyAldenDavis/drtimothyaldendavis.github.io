@@ -1,5 +1,4 @@
-# drtimothyaldendavis.github.io
-Tim Davis' personal web page
+Tim Davis' personal web page (in progress)
 
 # Documents:
 
